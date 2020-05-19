@@ -5,6 +5,6 @@
 ## Sensor Design
 
 ## Optical Design
-![Lens Equation](https://commons.wikimedia.org/wiki/File:Lens3.svg)
+![Lens Equation](https://upload.wikimedia.org/wikipedia/commons/7/71/Lens3.svg)
 
 ## Component Selection
